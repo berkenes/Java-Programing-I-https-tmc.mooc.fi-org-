@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_04.Room" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MainProgram" />
+    <module name="Part04_04.Room" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
